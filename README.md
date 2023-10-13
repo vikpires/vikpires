@@ -1,4 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" height="150"/>
+<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" height="140"/>
 <h1 align="left">Hi there, I'm Vitor!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
