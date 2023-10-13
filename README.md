@@ -1,7 +1,8 @@
 <img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" height="140"/>
-<h1 align="left">Hi there, I'm Vitor!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<img align="left" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+<h1 align="left">Hi there, I'm Vitor! </h1>
+
+
 <p align="left" margin-right="50px"> Architect from Brazil in the process of changing careers for data analysis. An enthusiastic learner with a passion for art, data and technology. Expect to develop unique and creative ideas combining data, art and design.</p>
 
 - 🔭 At the moment, I'm working as an architect and designer
