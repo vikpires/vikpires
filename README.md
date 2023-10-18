@@ -8,7 +8,7 @@
 - 🔭 At the moment, I'm working as an architect and designer
 - 🌱 I'm currently learning more about data science and data visualisation
 - 🏖️ My hobbies are: drawing, solving problems, writing and reading books
-- 🧑‍💻 Bootcamps, trainings and challenges that I've already participated in: [Bootcamps and Challenges](https://github.com/Bootcamp-and-challenges)
+- 🧑‍💻 Bootcamps, Challenges and Trainings Repository: [Tech Studies Repository](https://github.com/tech-studies)
 
 <h3 align="left"> 🛠️ Languages and Tools: </h3>
 <div>
@@ -31,3 +31,9 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
   </a>
 </div>
+
+---
+<br>
+
+[![Vik's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikpires&show_icons=true&count_private=true&rank_icon=percentile&theme=transparent&line_height=24)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikpires&layout=compact&langs_count=8&theme=transparent&size_weight=0.7&count_weight=0.3)](https://github.com/anuraghazra/github-readme-stats)
