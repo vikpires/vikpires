@@ -3,7 +3,7 @@
 <h1 align="left">Hi there, I'm Vitor! </h1>
 
 
-<p align="left" margin-right="50px"> Brazilian architect changing career to become a data analyst. Enthusiastic and passionate about art, data and technology.</p>
+<p align="left" margin-right="50px"> Brazilian architect changing career to become a data scientist. Enthusiastic and passionate about art, data and technology.</p>
 
 - 🔭 At the moment, I'm working as an architect and designer
 - 🌱 I'm currently learning more about data science and data visualisation
