@@ -2,11 +2,8 @@
 <img align="left" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 <h1 align="left">Hi there, I'm Vitor! </h1>
 
-
-<p align="left" margin-right="50px"> Brazilian architect changing career to become technology field.</p>
-
-- 🌱 I'm currently learning more about data science, data visualisation and quality assurance.
-- 🏖️ My hobbies are: drawing, solving problems, coding, writing and reading books.
+- 🌱 I'm currently studying data science, data visualisation and quality assurance.
+<!--- 🏖️ My hobbies: drawing, coding, playing videogames and reading comics and books.-->
 <!-- 🧑‍💻 Bootcamps, Challenges and Trainings Repository: [Tech Studies Repository](https://github.com/tech-studies)-->
 
 <h3 align="left"> 🛠️ Languages and Tools: </h3>
