@@ -8,7 +8,7 @@
 - 🔭 At the moment, I'm working as an architect and designer
 - 🌱 I'm currently learning more about data science and data visualisation
 - 🏖️ My hobbies are: drawing, solving problems, writing and reading books
-- 🧑‍💻 Bootcamps, Challenges and Trainings Repository: [Tech Studies Repository](https://github.com/tech-studies)
+<!-- 🧑‍💻 Bootcamps, Challenges and Trainings Repository: [Tech Studies Repository](https://github.com/tech-studies)-->
 
 <h3 align="left"> 🛠️ Languages and Tools: </h3>
 <div>
