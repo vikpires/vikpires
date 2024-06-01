@@ -5,7 +5,6 @@
 
 <p align="left" margin-right="50px"> Brazilian architect changing career to become a data scientist. Enthusiastic and passionate about art, data and technology.</p>
 
-- 🔭 At the moment, I'm working as an architect and designer
 - 🌱 I'm currently learning more about data science and data visualisation
 - 🏖️ My hobbies are: drawing, solving problems, writing and reading books
 <!-- 🧑‍💻 Bootcamps, Challenges and Trainings Repository: [Tech Studies Repository](https://github.com/tech-studies)-->
