@@ -1,5 +1,5 @@
 <div>
- <img align="left" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <h2 align="left">Hi there, I'm Vitor! </h2>
+ <img align="left" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <h1 align="left">Hi there, I'm Vitor! </h1>
 </div>
 <div>
  <h3>⬇️ About me:</h3>
@@ -7,7 +7,7 @@
  <h4>🌱 I'm a brazilian architect and data science student.</h3>
  <h4>🎲 I'm currently interested in data science, data visualisation and quality assurance.</h3>
  <h4>🐍 I’m currently learning Python, R and software test automation.</h4>
- <h4>💙 Anime, retrogames and books enjoyer.</h4>
+ <h4>💙 Anime, retrogame and books enjoyer.</h4>
 </div>
 
 ---
