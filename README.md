@@ -3,7 +3,7 @@
 </div>
 <div>
  <h3>⬇️ About me:</h3>
- <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNqYTl5cG5maDd0MzhnN2RnaDlwYzBsdzAyeXBld2xlYWg2bW5xOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" height="160"/>
+ <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNqYTl5cG5maDd0MzhnN2RnaDlwYzBsdzAyeXBld2xlYWg2bW5xOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" height="165"/>
  <h4>🌱 I'm a brazilian architect and data science student.</h3>
  <h4>🎲 I'm currently interested in data science, data visualisation and quality assurance.</h3>
  <h4>🐍 I’m currently learning Python, R and software test automation.</h4>
@@ -34,7 +34,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikpires&langs_count=6&bg_color=FFFFFF00)
 
 ---
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlqdWxwbGt3OXAwdzNlb2N2ZG9vMGV1MzlrYmgzdHVvd3FoMjk2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ErZ8hv5eO92JW/giphy.gif" height="160"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlqdWxwbGt3OXAwdzNlb2N2ZG9vMGV1MzlrYmgzdHVvd3FoMjk2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ErZ8hv5eO92JW/giphy.gif" height="120"/>
 <h3 align="left">🤙 Feel free to connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/vitorspires/" target="_blank">
