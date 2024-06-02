@@ -6,7 +6,7 @@
  <h4>🎲 I'm an architect and data science student.</h3>
  <h4>👀 I'm currently interested in data science, data visualisation and quality assurance.</h3>
  <h4>🐍 I’m currently learning Python, R and software test automation.</h4>
- <h4>🎮 Anime, comics, retrogames and books enjoyer.</h4>
+ <h4>🎮 Anime, retrogames and books enjoyer.</h4>
 </div>
 
 ---
