@@ -5,7 +5,7 @@
  <img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" height="140"/>
  <h4>🎲 I'm an architect and data science student.</h3>
  <h4>👀 I'm currently interested in data science, data visualisation and quality assurance.</h3>
- <h4>🐍 I’m currently learning python and SQL.</h4>
+ <h4>🐍 I’m currently learning Python, R and software test automation.</h4>
  <h4>🎮 Anime, comics, retrogames and books enjoyer.</h4>
 </div>
 
