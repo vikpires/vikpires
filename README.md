@@ -76,13 +76,11 @@
  </div>
  <br />
 
-<div>
- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlqdWxwbGt3OXAwdzNlb2N2ZG9vMGV1MzlrYmgzdHVvd3FoMjk2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ErZ8hv5eO92JW/giphy.gif" height="120"/>
- 
  ## 🤙 Feel free to connect with me:
+ <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlqdWxwbGt3OXAwdzNlb2N2ZG9vMGV1MzlrYmgzdHVvd3FoMjk2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ErZ8hv5eO92JW/giphy.gif" height="120"/>
 
- >[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorspires/)
-  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikpires/) 
-</div>
+>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorspires/)
+ [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikpires/) 
+
 
   
