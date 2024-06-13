@@ -5,7 +5,7 @@
  
  <img align="right" height="140em" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNqYTl5cG5maDd0MzhnN2RnaDlwYzBsdzAyeXBld2xlYWg2bW5xOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"/>
  
-  - 🌱 Brazilian architect, fullstack developer and data science student.
+  - 🌱 Brazilian architect and fullstack developer
   - 🎲 I'm currently studying Data Science at UFMS.
   - 👨‍💻 Front-End Developer Resident at Irede on the RESTIC 12 Programme.
   - 💙 Anime, retrogame and books enjoyer.    
