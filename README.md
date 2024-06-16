@@ -65,7 +65,7 @@
  <div>
   <a hef ="https://github.com/vikpires/">
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=vikpires&show_icons=true&theme=tokyonight&hide_border=true" />&nbsp;
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikpires&langs_count=6&theme=tokyonight&hide_border=true" /> 
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikpires&langs_count=4&theme=tokyonight&hide_border=true" /> 
  </div>
  <br />
   
