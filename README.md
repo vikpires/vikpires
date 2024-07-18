@@ -7,8 +7,9 @@
  
   - 🌱 Brazilian architect and fullstack developer
   - 🎲 I'm currently studying Data Science at UFMS.
-  - 👨‍💻 Front-End Developer Resident at Irede on the RESTIC 12 Programme.
-  - 💙 Anime, retrogame and books enjoyer.    
+  - 👨‍💻 Front-End Developer Resident at Irede (TIC 12).
+  - 📚 Studying QA (IT Talent) and Data Science (Avanti Bootcamp)
+  - 💙 Anime, retrogame, books and coffee enjoyer.    
 </div>
 <br />
 
