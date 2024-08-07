@@ -8,7 +8,7 @@
   - 📚 Studying QA (IT Talent) and Data Science (Avanti Bootcamp)
   - 💙 Anime, retrogame, books enjoyer.
 
----
+<br />
 
 ## 🚀Skills
 
