@@ -1,5 +1,3 @@
-<div>
- 
  #  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=23aaf2&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Vitor!;I'm+front-end+developer+and+data+science+student.+;Welcome+to+my+repository!)](https://git.io/typing-svg)     
  
  <img align="right" height="140em" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNqYTl5cG5maDd0MzhnN2RnaDlwYzBsdzAyeXBld2xlYWg2bW5xOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"/>
@@ -9,7 +7,6 @@
   - 👨‍💻 Front-End Developer Resident at Irede (TIC 12).
   - 📚 Studying QA (IT Talent) and Data Science (Avanti Bootcamp)
   - 💙 Anime, retrogame, books enjoyer.    
-</div>
 <br />
 
 ## 🚀Skills
@@ -27,27 +24,27 @@
 
 <br />
 
- ## 📖 Currently Studying
+## 📖 Currently Studying
  
  ![VueJS](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) 
- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
- 
- <br />
+ ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 
- ## 📈My Stats 
+<br />
+
+## 📈My Stats 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vikpires&theme=react)| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vikpires&theme=react) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vikpires&theme=react) |
 | :-: | :-: | :-: |
 
 |[![GitHub Streak](https://streak-stats.demolab.com?user=vikpires&theme=react)](https://git.io/streak-stats) |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikpires&theme=react)| 
 | :-: | :-: |
 
- <br />
+<br />
 
- ## 💬Feel free to connect with me:
- <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlqdWxwbGt3OXAwdzNlb2N2ZG9vMGV1MzlrYmgzdHVvd3FoMjk2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ErZ8hv5eO92JW/giphy.gif" height="120"/>
+## 💬Feel free to connect with me:
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlqdWxwbGt3OXAwdzNlb2N2ZG9vMGV1MzlrYmgzdHVvd3FoMjk2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ErZ8hv5eO92JW/giphy.gif" height="120"/>
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorspires/)<br />
- [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&color=6055a1&logo=github&logoColor=white)](https://github.com/vikpires/) 
+>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorspires/)<br />
+>[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&color=6055a1&logo=github&logoColor=white)](https://github.com/vikpires/) 
 
 
   
