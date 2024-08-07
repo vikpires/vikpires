@@ -6,8 +6,9 @@
   - 🎲 I'm currently studying Data Science at UFMS.
   - 👨‍💻 Front-End Developer Resident at Irede (TIC 12).
   - 📚 Studying QA (IT Talent) and Data Science (Avanti Bootcamp)
-  - 💙 Anime, retrogame, books enjoyer.    
-<br />
+  - 💙 Anime, retrogame, books enjoyer.
+
+---
 
 ## 🚀Skills
 
@@ -34,9 +35,6 @@
 ## 📈My Stats 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vikpires&theme=react)| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vikpires&theme=react) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vikpires&theme=react) |
 | :-: | :-: | :-: |
-
-|[![GitHub Streak](https://streak-stats.demolab.com?user=vikpires&theme=react)](https://git.io/streak-stats) |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikpires&theme=react)| 
-| :-: | :-: |
 
 <br />
 
