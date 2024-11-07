@@ -5,7 +5,6 @@
   - 🌱 Brazilian architect in career transition.
   - 🎲 I'm currently studying Data Science at UFMS.
   - 👨‍💻 Front-End Developer Resident at Irede (TIC 12).
-  - 📚 Studying QA (IT Talent) and Data Science (Avanti Bootcamp)
   - 💙 Anime, retrogame, books enjoyer.
 
 <br />
