@@ -1,4 +1,4 @@
- #  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=23aaf2&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Vitor!;I'm+front-end+developer+and+data+science+student.+;Welcome+to+my+repository!)](https://git.io/typing-svg)     
+ #  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=23aaf2&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Vitor!;I'm+a+software+developer+and+data+science+student.+;Welcome+to+my+repository!)](https://git.io/typing-svg)     
  
  <img align="right" height="140em" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNqYTl5cG5maDd0MzhnN2RnaDlwYzBsdzAyeXBld2xlYWg2bW5xOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"/>
  
