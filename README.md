@@ -5,13 +5,13 @@
   - 🌱 Brazilian architect in career transition.
   - 🎲 I'm currently studying Data Science at UFMS.
   - 👨‍💻 Front-End Developer Resident at Irede (TIC 12).
-  - 💙 Anime, retrogame, books enjoyer.
-
+  - 🗨️ Languages: Portuguese (Native) | English (Intermediate) | Japanese (Basic)
+  - 💙 Animes, retrogames, books and challenges enjoyer.
 <br />
 
 ## 💻Projects for Area
 
- [![Data Science](https://img.shields.io/badge/Data%20Science-4285F4?style=for-the-badge)](https://github.com/vikpires?tab=repositories&q=ds&type=&language=&sort=)
+ >[![Data Science](https://img.shields.io/badge/Data%20Science-4285F4?style=for-the-badge)](https://github.com/vikpires?tab=repositories&q=ds&type=&language=&sort=)
  [![FrontEnd](https://img.shields.io/badge/FrontEnd-886FBF?style=for-the-badge)](https://github.com/vikpires?tab=repositories&q=front&type=&language=&sort=)
  [![QA](https://img.shields.io/badge/QA-35495E?style=for-the-badge)](https://github.com/vikpires?tab=repositories&q=QA&type=&language=&sort=)
  
@@ -34,7 +34,7 @@
 
 ## 📖 Currently Studying
  
- ![VueJS](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) 
+ >![VueJS](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) 
  ![NuxtJS](https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
