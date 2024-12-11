@@ -3,10 +3,10 @@
  <img align="right" height="140em" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNqYTl5cG5maDd0MzhnN2RnaDlwYzBsdzAyeXBld2xlYWg2bW5xOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"/>
  
   - 🌱 Brazilian architect in career transition.
-  - 🎲 I'm currently studying Data Science at UFMS.
+  - 🎲 I'm currently studying Data Science (02/06) at UFMS.
   - 👨‍💻 Front-End Developer Resident at Irede (TIC 12).
   - 🗨️ Languages: Portuguese (Native) | English (Intermediate) | Japanese (Basic)
-  - 💙 Animes, retrogames, books and challenges enjoyer.
+  - 💙 Animes, retrogames and books enjoyer.
 <br />
 
 ## 💻Projects for Area
