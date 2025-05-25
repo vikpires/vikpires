@@ -5,7 +5,7 @@
   - 🌱 Brazilian architect in career transition.
   - 🎲 I'm currently studying Data Science (03/06) at UFMS.
   - 🗨️ Languages: Portuguese (Native) | English (Intermediate) | Japanese (Basic)
-  - 💙 Animes, retrogames and books enjoyer.
+  - 💙 I like animes, retrogames, books and coffee.
 <br />
 
 ## 💻Projects for Area
